@@ -35,7 +35,9 @@ npm run start
 
 ## Contributing
 
-> To get started...
+> Contributers to the Express shop :
+    Kashmira:Kashmira98
+    Anamika:Anamika787
 
 ### Step 1
 
